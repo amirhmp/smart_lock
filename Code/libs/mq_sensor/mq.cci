@@ -1,0 +1,8 @@
+VERSION:3 SOURCE_TIMESTAMP:5635B0BC
+NODE:I LEVEL:0 LINE:1 "E:\projects\15. Smart Lock\Code\libs\mq_sensor\..\init\init.h"
+NODE:M LEVEL:0 LINE:3 "MAX_AVG_COUNT"
+NODE:V LEVEL:0 LINE:5 "sum -> RAM:????"
+NODE:V LEVEL:0 LINE:6 "mv_avg_counter -> RAM:????"
+NODE:V LEVEL:0 LINE:7 "firstValueIndex -> RAM:????"
+NODE:V LEVEL:0 LINE:8 "values -> RAM:????"
+NODE:F LEVEL:0 LINE:10 "read_mq_sensor(void)"

@@ -1,0 +1,11 @@
+VERSION:3 SOURCE_TIMESTAMP:52C699AB
+NODE:I LEVEL:0 LINE:2 "E:\projects\15. Smart Lock\Code\libs\menu_builder\static_stack.h"
+NODE:I LEVEL:0 LINE:3 "C:\cvavr\inc\stdlib.h"
+NODE:M LEVEL:0 LINE:6 "STACK_SIZE"
+NODE:V LEVEL:0 LINE:8 "stack -> RAM:????"
+NODE:V LEVEL:0 LINE:9 "lastIndex -> RAM:????"
+NODE:F LEVEL:0 LINE:11 "stack_is_empty(void)"
+NODE:F LEVEL:0 LINE:15 "stack_is_full(void)"
+NODE:F LEVEL:0 LINE:20 "stack_push(struct MenuItem * data)"
+NODE:F LEVEL:0 LINE:26 "stack_pop(void)"
+NODE:F LEVEL:0 LINE:34 "stack_peek(void)"

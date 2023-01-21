@@ -1,0 +1,4 @@
+VERSION:3 SOURCE_TIMESTAMP:5462AB97
+NODE:V LEVEL:0 LINE:4 "*curTime -> RAM:????"
+NODE:F LEVEL:0 LINE:6 "initWait(unsigned long * currentTimePtr)"
+NODE:F LEVEL:0 LINE:13 "wait(unsigned long * firstTime,int duration)"

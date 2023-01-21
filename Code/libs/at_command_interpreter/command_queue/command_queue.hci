@@ -1,0 +1,4 @@
+VERSION:3 SOURCE_TIMESTAMP:55306706
+NODE:M LEVEL:0 LINE:4 "SIM800L_SIMULATION_COMMAND_QUEUE_H"
+NODE:I LEVEL:0 LINE:6 "E:\projects\15. Smart Lock\Code\libs\at_command_interpreter\command_queue\..\at_command_interpreter.h"
+NODE:M LEVEL:0 LINE:8 "Type"

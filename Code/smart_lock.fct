@@ -1,0 +1,12 @@
+main DSTACK_USAGE:102 DSTACK_LEVEL:102 FILE:"smart_lock.c" LINE:126
+sendSMSBlocking DSTACK_USAGE:57 DSTACK_LEVEL:159 FILE:"libs\at_command_interpreter\at_command_interpreter.c" LINE:218
+sendCommandBlocking DSTACK_USAGE:15 DSTACK_LEVEL:174 FILE:"libs\at_command_interpreter\at_command_interpreter.c" LINE:181
+serial_send DSTACK_USAGE:2 DSTACK_LEVEL:176 FILE:"libs\at_command_interpreter\at_command_interpreter.c" LINE:323
+printf DSTACK_USAGE:10 DSTACK_LEVEL:186 FILE:"" LINE:1528
+_print DSTACK_USAGE:94 DSTACK_LEVEL:280 FILE:"" LINE:1209
+_ftoe DSTACK_USAGE:16 DSTACK_LEVEL:296 FILE:"" LINE:1128
+floor DSTACK_USAGE:4 DSTACK_LEVEL:300 FILE:"C:\cvavr\lib\math.lib" LINE:659
+ftrunc DSTACK_USAGE:4 DSTACK_LEVEL:304 FILE:"C:\cvavr\lib\math.lib" LINE:544
+usart0_rx_isr DSTACK_USAGE:16 DSTACK_LEVEL:320 FILE:"libs\at_command_interpreter\at_command_interpreter.c" LINE:139
+checkEvent DSTACK_USAGE:12 DSTACK_LEVEL:332 FILE:"libs\at_command_interpreter\at_command_interpreter.c" LINE:77
+trace_incoming_chars DSTACK_USAGE:12 DSTACK_LEVEL:344 FILE:"libs\at_command_interpreter\at_command_interpreter.c" LINE:57

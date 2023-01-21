@@ -1,0 +1,2 @@
+1) do note put blocking operations in at_command_interpreter events because, events like onNewSms and onPhoneRinging are interpreted inside uart_rec_ISR and no operation in ISR must not be blocking
+2) we use a flag for each event from at_command_interpreter for receiving an event after handling the event in loop you must clear the flag (flags are a bridge between ISR and MainLoop)
